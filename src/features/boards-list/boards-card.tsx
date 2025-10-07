@@ -1,3 +1,3 @@
 export function BoardCard() {
-    return <div>Board card</div>
+  return <div>Board card</div>;
 }

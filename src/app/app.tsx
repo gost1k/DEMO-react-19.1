@@ -6,6 +6,5 @@ export function App(): JSX.Element {
     <div>
       <BoardPage />
     </div>
-  )
-  
+  );
 }
